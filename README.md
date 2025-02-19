@@ -1,2 +1,0 @@
-# revx.io
-REVXDIECAST 
